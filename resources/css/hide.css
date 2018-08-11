@@ -1,0 +1,66 @@
+.player 
+{
+	position: absolute;
+	top: 500;
+	left:600;
+	width: 100px;
+	height: 100px;
+}
+.goldChest
+{
+	position:absolute;
+	top:20px;
+	left:320px;
+}
+.text
+{
+	background-color:white;
+	position: absolute;
+	width: 500px;
+	height: 120px;
+	top: 488px;
+	left: 438px;
+	border-radius: 10px;
+}
+.personFace img
+{
+	margin: 10px;
+	border-radius: 50px;
+	left: 20px;
+	position: relative;
+}
+.text p
+{
+	position: absolute;
+	left: 145px;
+	top: -2px;
+	width: 332px;
+}
+.firstPerson
+{
+	width: 100px;
+	height: 100px;
+}
+.person
+{
+	width: 100px;
+	height: 100px;
+	display: none;
+}
+.dialogBoxBG
+{
+	position: absolute;
+	left: 140px;
+	border-radius: 10px;
+	margin: 0px;
+	width: 358px;
+	height: 120px;
+	top: 0px;
+}
+.click
+{
+	position: absolute;
+	top: 96px;
+	left: 450px;
+	color: #666;
+}

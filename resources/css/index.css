@@ -1,0 +1,31 @@
+.indexFont1
+{
+	position:absolute;
+	top:180px;
+	left:380px;
+}
+.indexFont2
+{
+	position:absolute;
+	top:250px;
+	left:440px;
+}
+.indexCentre
+{
+	position:absolute;
+	top:160px;
+	left:815px;
+}
+.indexStar
+{ 
+	position:absolute;
+	left:-83px;
+}
+.indexBottom
+{
+	position:absolute;
+	bottom:0px; 
+	left: 10px;
+	width: 1340px;
+	height: 187px;
+}

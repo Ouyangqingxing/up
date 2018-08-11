@@ -1,0 +1,179 @@
+body
+{
+    background-color: #F7F7F7;
+}
+/* ===================================== 顶部 ===================================== */
+#top
+{
+    position: absolute;
+    top:20px;
+    left: 200px;
+    right: 200px;
+    height: 115px;
+    border: 1px #E6E6E6 solid;
+    background-color: white;
+}
+#face img
+{
+    position: relative;
+    left: 28px;
+    top: 25px;
+    height: 60px;
+    width: 60px;
+    border-radius: 48px;
+}
+#name
+{
+    position: relative;
+    top: -30px;
+    left: 12%;
+    color: #FF66CC;
+}
+#sign
+{
+    position: relative;
+    top: -23px;
+    left: 12%;
+    font-family: KaiTi;
+    font-size: 18px;
+}
+#follow
+{
+    position: relative;
+    float: right;
+    top: -72px;
+    right: 55px;
+    height: 58px;
+    width: 200px;
+    font-size: 18px;
+    color: red;
+}
+#follow img
+{
+    position: relative;
+    left: 150px;
+    top: -50px;
+    height: 60px;
+    width: 60px;
+}
+/* ===================================== 中间 ===================================== */
+#left
+{
+    position: absolute;
+    left: 200px;
+    top: 145px;
+    width: 625px;
+    height: 425px;
+    border: 1px #E6E6E6 solid;
+    background-color: white;
+}
+#left p
+{
+    position: relative;
+    top: 142px;
+    text-align: center;
+}
+#title
+{
+    position: absolute;
+    left: 45%;
+    top:10px;
+    text-align: center;
+}
+#ffzrmDiv
+{
+    position: relative;
+    top: 55px;
+    left: 56px;
+    padding: 6px;
+}
+#ffzrmDiv img
+{
+    padding: 6px;
+}
+#mmpDiv
+{
+    position: relative;
+    top: 45px;
+    left: 56px;
+    padding: 6px;
+}
+#mmpDiv img
+{
+    padding: 6px;
+}
+#qsmxDiv
+{
+    position: relative;
+    top: 42px;
+    left: 56px;
+    padding: 6px;
+}
+#qsmxDiv img
+{
+    padding: 6px;
+}
+#shyshDiv
+{
+    position: relative;
+    top: 28px;
+    left: 56px;
+    padding: 6px;
+}
+#shyshDiv img
+{
+    padding: 6px;
+}
+#right
+{
+    position: absolute;
+    top: 145px;
+    right: 200px;
+    width: 328px;
+    height: 425px;
+    border: 1px #E6E6E6 solid;
+    background-color: white;
+}
+#right p
+{
+    position: relative;
+    display: none;
+    left: 25px;
+    top: 142px;
+    width: 88%;
+    text-align: center;
+}
+/* ===================================== 底部 ===================================== */
+#bottom
+{
+    position: absolute;
+    top:580px;
+    left:200px;
+    right: 200px;
+    height: 100px;
+    border: 1px #E6E6E6 solid;
+    background-color: white;
+}
+#bottom p
+{
+    position: absolute;
+    top: 10px;
+    left: 168px;
+
+}
+/* ===================================== 其他元素 ===================================== */
+#funny
+{
+    position:absolute;
+    right: 5px;
+    top: 2px;
+    height: 40px;
+    width:40px;
+    border-radius: 25px;
+}
+#versionNumber
+{
+    position:absolute;
+    right: 8px;
+    top: 42px;
+}
