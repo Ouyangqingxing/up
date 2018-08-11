@@ -1,5 +1,9 @@
 
-	bilibili 欧阳青星
+# bilibili 欧阳青星
+
+笔记请[点击这里](https://github.com/Ouyangqingxing/up/tree/master/resources/images/notes)，进入页面后点击download就可以下载啦~
+以下是进度计划0.0
+
 -----------------------------已完成-----------------------------
 
 | 系列       |  序号          |  标题           |   难度          |     进度               |
