@@ -294,33 +294,31 @@
 {
 	position: absolute;
 	top: 28px;
-	left: 62px;
-}
-#smzl_icon
-{
-	position: absolute;
-    top: 28px;
-    left: 195px;
-    height: 30px;
-    width: 36px;
+	left: 93px;
 }
 #qs_word
 {
     position: absolute;
     top: 72px;
-    left: 92px;
+    left: 123px;
 }
 #fn_word
 {
     position: absolute;
     top: 118;
-    left: 92px;
+    left: 123px;
 }
 #rhjczyjs_word
 {
     position: absolute;
     top: 164;
-    left: 62px;
+    left: 96px;
+}
+#sjmf_word
+{
+    position: absolute;
+    top: 208;
+    left: 96px;
 }
 /* =====================================其他元素===================================== */
 .bottom

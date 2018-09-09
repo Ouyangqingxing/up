@@ -158,11 +158,12 @@ body
     height: 100px;
     border: 1px #E6E6E6 solid;
     background-color: white;
+    text-align: center;
 }
 #bottom p
 {
     position: absolute;
-    top: 22px;
+    top: 12px;
     left: 233px;
 }
 /* ===================================== 其他元素 ===================================== */
