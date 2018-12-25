@@ -3,7 +3,7 @@
  * 全局变量
  * 句子总数，当前句子序号，主题序号
  */
-var sentenceNumber = 28;
+var sentenceNumber = 30;
 var currentSentence = -1;
 
 $(document).ready(function()
